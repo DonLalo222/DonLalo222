@@ -21,6 +21,7 @@ You can click the Preview link to take a look at your changes.
 ### Demo Code Examples
 
 [Angular: Search Anime](https://donlalo222.github.io/search-anime-angular/#/)
+[Angular: Simple Cart](https://donlalo222.github.io/simple-cart-angular/#)
 
 #### Languages
 
