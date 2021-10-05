@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on ... Any of project
 - 👯 looking an opportunity in the developer world
-- 😄 I’m currently learning React and front end technologies
+- 😄 I’m currently learning front end technologies
 - 🌱 I like to be in constant learning.
 
 <hr>
