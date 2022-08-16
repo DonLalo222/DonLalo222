@@ -24,6 +24,8 @@ You can click the Preview link to take a look at your changes.
 
 [Angular: Simple Cart](https://donlalo222.github.io/simple-cart-angular/#)
 
+[REACT: Cocktails Information](https://marvelous-cajeta-2029f2.netlify.app/)
+
 #### Languages
 
 [![CSharp](https://img.shields.io/badge/-CSharp-fff?&logo=c-sharp&logoColor=blue)]
